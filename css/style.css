@@ -1,0 +1,30 @@
+.bg-primary {
+  background-color: #f10a0a !important; }
+
+.btn-primary {
+  background-color: #f10a0a !important;
+  border-color: #8f0606 !important; }
+  .btn-primary:hover, .btn-primary :focus {
+    background-color: #c00808 !important; }
+  .btn-primary:active {
+    background-color: #8f0606 !important;
+    border-color: #5e0404 !important; }
+  .btn-primary:focus {
+    -webkit-box-shadow: 0 0 0 0.2rem rgba(241, 10, 10, 0.5) !important;
+            box-shadow: 0 0 0 0.2rem rgba(241, 10, 10, 0.5) !important; }
+
+.text-primary {
+  color: #f10a0a !important; }
+
+html {
+  font-size: 13px; }
+
+body {
+  color: #44484a;
+  font-family: 'Open Sans', sans-serif; }
+
+.card:hover {
+  -webkit-box-shadow: 0 0 10px #191918f0;
+          box-shadow: 0 0 10px #191918f0; }
+
+/*# sourceMappingURL=style.css.map */
